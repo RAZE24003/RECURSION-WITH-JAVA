@@ -1,4 +1,4 @@
-public class chckifthearrayissorted {
+public class checkifthearrayissorted {
     //complexity o(n)
     public static void print(int arr[],int n) {
         if(n==arr.length-1)
